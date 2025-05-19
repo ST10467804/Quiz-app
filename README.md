@@ -2,6 +2,8 @@
 
 https://github.com/ST10467804/Quiz-app
 
+https://youtu.be/UWpCKsXgBRY
+
 
 The quiz app is an aplication that is desiged to help history students learn for their test by displaying a set of history related questions. The questions are all true or false based and it has a score system to show if improvement is required. once the student is done they can close the application or review their questions in an attempt to learn from it. The application itself uses Kotlin code and arrays and multiple screens have been implimented in order to provide a god UI design.
 
